@@ -1,0 +1,8 @@
+open file in jupyter notebook:
+
+1. Amazon_Customer_Review_Sentiment_Analysis.ipynb
+2. Amazon_Customer_Review_Summarizer.ipynb
+
+- The file name attention is added file for training of LSTM used in summarizer notebook
+- The contraction_mapping is added suport file
+- All .h5 files are saved models
